@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [sonoreEvents](https://github.com/Dev-organico/projeto22-autoral)
 
-- 🌱 I’m currently learning **Docker, typeScript, aws**
+- 🌱 I’m currently learning **docker, typeScript, aws**
 
-- 💬 Ask me about **react, python, javaScript**
+- 💬 Ask me about **react, javaScript, node.js**
 
 - 📫 How to reach me **joao.zolet@gmail.com**
 
